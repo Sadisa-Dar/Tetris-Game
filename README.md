@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="background" src="https://github.com/user-attachments/assets/ade90a32-30d6-41b9-849c-d29a7660433f" />
+
 # 🎮 Tetris Game — Java
 
 An enhanced implementation of the classic Tetris game featuring AI-powered gameplay, two modes, custom graphical interfaces, and a database-backed leaderboard.
@@ -72,6 +74,9 @@ Some of the major classes, methods, and components developed for the project inc
 | `TestConnection.java` | Tests database connectivity. |
 
 ## 🚀 Getting Started
+<img width="1919" height="1001" alt="Screenshot 2026-02-19 030045" src="https://github.com/user-attachments/assets/77119940-d2c5-4e27-953c-a1c9bac74f8e" />
+<img width="1917" height="1001" alt="Screenshot 2026-02-19 031324" src="https://github.com/user-attachments/assets/8a532158-d32e-49fb-b2cf-9c4e2df46002" />
+<img width="1910" height="1009" alt="Screenshot 2026-02-19 030120" src="https://github.com/user-attachments/assets/d579af94-2d6c-4e91-a434-da4cfd01a745" />
 
 ### Prerequisites
 
